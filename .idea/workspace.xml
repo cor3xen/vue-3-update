@@ -3,8 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="ddaea2f3-0a94-44b0-af7c-5f8e83f75810" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic-app-v3/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/basic-app-v3/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic-app-v3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/basic-app-v3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/router-v2/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/router-v2/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/router-v2/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/router-v2/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/router-v2/src/components/TheHeader.vue" beforeDir="false" afterPath="$PROJECT_DIR$/router-v2/src/components/TheHeader.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/router-v3/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/router-v3/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/router-v3/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/router-v3/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/router-v3/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/router-v3/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transitions-v3/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/transitions-v3/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transitions-v3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/transitions-v3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transitions-v3/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/transitions-v3/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuex-v2/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vuex-v2/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuex-v3/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vuex-v3/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuex-v3/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vuex-v3/src/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +32,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -36,11 +48,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608515172848</updated>
-      <workItem from="1608515173919" duration="804000" />
+      <workItem from="1608515173919" duration="889000" />
+      <workItem from="1608598461142" duration="2030000" />
     </task>
+    <task id="LOCAL-00001" summary="update to work with Vue3">
+      <created>1608516032702</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608516032702</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update to work with Vue3" />
+    <option name="LAST_COMMIT_MESSAGE" value="update to work with Vue3" />
   </component>
 </project>
